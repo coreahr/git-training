@@ -14,4 +14,4 @@ for i in range(N):
             pass
             
 
-print(sum(DP[N-1])%10007)
+#print(sum(DP[N-1])%10007)
